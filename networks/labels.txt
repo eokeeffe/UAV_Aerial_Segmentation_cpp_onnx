@@ -1,0 +1,8 @@
+clutter
+building
+road
+static_car
+tree
+vegetation
+human
+moving_car
