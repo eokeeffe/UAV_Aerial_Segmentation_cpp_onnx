@@ -1,3 +1,0 @@
-/home/evanokeeffe/deep-learning/onnx_aerial_segmentation/build/CMakeFiles/aerial_segment.dir
-/home/evanokeeffe/deep-learning/onnx_aerial_segmentation/build/CMakeFiles/edit_cache.dir
-/home/evanokeeffe/deep-learning/onnx_aerial_segmentation/build/CMakeFiles/rebuild_cache.dir
